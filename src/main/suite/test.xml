@@ -1,0 +1,9 @@
+<suite name="Test" verbose="1" parallel="tests" thread-count="2">
+
+    <test name="Basic Search Test">
+        <classes>
+            <class name="testrunner.BookSearchTestRunner"/>
+        </classes>
+    </test>
+
+</suite>
